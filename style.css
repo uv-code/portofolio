@@ -1,0 +1,16 @@
+body {
+    background-color: #f4f6f8;
+    color: #333;
+    font-family: Segoe UI, Arial, sans-serif;
+    margin: 40px;
+}
+h1, h2 {
+    color: #0078D4; /* Microsoft Azure Blau */
+}
+a {
+    color: #0078D4;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
